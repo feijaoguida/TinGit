@@ -1,0 +1,1 @@
+C:\Users\familia\AppData\Local\Android\sdk\tools\emulator.exe -avd teste
